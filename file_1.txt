@@ -1,1 +1,2 @@
 reads = 100
+length = 10000
